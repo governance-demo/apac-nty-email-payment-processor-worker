@@ -1,2 +1,6 @@
 # apac-nty-email-payment-processor-worker
-notifications / standard / apac
+
+Team: **notifications**  
+Tier: **standard**  
+Region: **apac**  
+Synthetic demo repo for the Domo governance platform.
